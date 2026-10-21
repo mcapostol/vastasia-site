@@ -1,0 +1,21 @@
+VASTASIA — asset provenance, 2026-10-21
+
+Tool: built-in image_gen (not a paid external stock library or API CLI).
+Public final assets: assets/architecture.webp, architecture-800.webp, technical.webp, technical-800.webp, team.webp, team-800.webp, logo.webp, social.jpg, hero.mp4, hero-mobile.mp4, hero.webm, hero-poster.webp. Packaged equivalents: public_html/assets/.
+
+Architecture prompt:
+Use case: photorealistic-natural. Asset type: wide cinematic website hero for a European electrical, plumbing and HVAC installation company. Architectural editorial photograph, 16:9 horizontal panorama, a refined contemporary mixed-use building with glass and pale stone facade in Central Europe at blue hour, illuminated warm office windows, orderly architectural lines, a glimpse of integrated roof mechanical systems, trees and pedestrian courtyard. Building occupies right two thirds, quiet darker architecture on left for white website text. Premium restrained anthracite, silver, warm white tones. Believable construction, no logos, no lettering, no identifiable real landmark, no watermark, no collage, no UI. Crisp materials and cinematic natural lighting, composed as a real architectural photograph.
+
+Technical prompt:
+Use case: photorealistic-natural. Asset type: wide cinematic website background and services editorial image for building engineering. Photorealistic immaculately organized modern commercial building plant room, coordinated insulated water pipes, stainless steel HVAC ductwork and closed electrical switchgear in one realistic space, safety-conscious clean installation, precise alignment, no exposed live wires or unsafe workers. Architectural perspective with foreground detail and depth, soft industrial daylight, restrained steel silver and graphite with very subtle warm highlights, sophisticated engineering magazine photography, horizontal 16:9 frame. No logos, no text, no UI, no watermark, no collage.
+
+Team prompt:
+Use case: photorealistic-natural. Asset type: editorial About page photo for a European building services engineering company. Three fictional building-services professionals in a well-lit construction-site planning room, discussing an unlettered technical floor plan on a table, safety helmets resting on table, site visible through the window. Candid collaborative moment, not posing or looking at camera, natural expressions and hands, charcoal workwear and understated everyday professional clothing, subtle tactile detail. Premium editorial architectural photography, horizontal 16:9 composition, realistic daylight, steel gray and warm neutral palette. No readable text, no real company branding, no watermark, no collage.
+
+Logo adaptation prompt:
+Edit target: ONLY the user-supplied VASTASIA Consulting Group logo image (silver building icon with VASTASIA and CONSULTING GROUP on a black rectangle). Ignore the three architectural/team photographs. Prepare a clean web asset by removing the outer white margin, rounded rectangular border and black background. Preserve the original building symbol geometry, original VASTASIA lettering, original CONSULTING GROUP lettering, relative proportions and silver color; do not invent a new logo, do not redesign or add anything. Keep all the icon and both exact text lines fully visible. Output tightly framed with a modest transparent margin, real transparent background, crisp silver artwork.
+
+Output is a web adaptation, not a substitute for the original vector master. Requires brand owner's acceptance. Original generated PNGs preserved in local assets/*-source.png and excluded from public repo to avoid duplication. WebP/MP4/WebM compression and resizing performed locally with FFmpeg. Video uses a 20-second loop with 2-second crossfades and the exact first frame as its poster; no actual footage of client projects is implied.
+
+Typography: Inter and display font supplied with their original SIL Open Font License texts in assets/inter-LICENSE.txt and assets/display-LICENSE.txt. Reused licensed font files from the owner's existing site; no proprietary Clarified imagery, logo or tracking IDs copied.
+Project diagrams and favicon: original code-native CSS/SVG shapes. No stock imagery or competitor materials.
