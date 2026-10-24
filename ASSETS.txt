@@ -19,3 +19,16 @@ Output is a web adaptation, not a substitute for the original vector master. Req
 
 Typography: Inter and display font supplied with their original SIL Open Font License texts in assets/inter-LICENSE.txt and assets/display-LICENSE.txt. Reused licensed font files from the owner's existing site; no proprietary Clarified imagery, logo or tracking IDs copied.
 Project diagrams and favicon: original code-native CSS/SVG shapes. No stock imagery or competitor materials.
+
+2026-10-24 — additional service imagery, generated with built-in image_gen.
+Electrical: assets/electrical.webp and assets/electrical-800.webp (1600×900 and 800×450).
+Saved source: assets/electrical-source.png, kept locally and excluded from the repository/package.
+Prompt:
+Use case: photorealistic-natural. Asset type: wide editorial website image for VASTASIA electrical installation services. A meticulously arranged, closed modern low-voltage electrical distribution cabinet installation in a European commercial building plant corridor. Clean cable trays enter neatly above the cabinets, closed panel doors with subtle indicator windows, no readable labels or brand logos, no exposed live conductors, no people. Precise workmanship, realistic industrial architecture, graphite and brushed stainless steel palette, soft natural side lighting. Premium architectural magazine photography, horizontal 16:9, credible technical detail. No text, no watermark, no UI, no collage.
+
+Plumbing: assets/plumbing.webp and assets/plumbing-800.webp (1600×900 and 800×450).
+Saved source: assets/plumbing-source.png, kept locally and excluded from the repository/package.
+Prompt:
+Use case: photorealistic-natural. Asset type: wide editorial website image for VASTASIA plumbing installation services. A realistic modern building water distribution manifold and neatly aligned insulated hot and cold water pipes in a clean technical room. Professionally fitted valves, consistent pipe supports, logical routing, stainless and brass components, no readable labels, no branding, no people. Calm daylight, silver graphite tones with restrained blue and red valve accents. Premium architectural engineering photography, horizontal 16:9, clear foreground detail and depth, realistic modest plant room rather than a fantasy factory. No text, no watermark, no UI, no collage.
+
+These images illustrate service disciplines, not named completed projects or an assertion of a particular real installation. WebP variants are linked from each corresponding service page in all five languages.
